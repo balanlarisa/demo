@@ -1,0 +1,8 @@
+add another comment here 
+t some updates on branch
+<<<<<<< HEAD
+have .. troubles!
+=======
+i like to have troubles!
+>>>>>>> verybadbranch
+another troubles! 
